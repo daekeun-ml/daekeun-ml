@@ -29,5 +29,3 @@ As an AI/ML technical specialist, Daekeun has led over 150+ AI/ML workloads, del
 - 📧 housekdk@naver.com  
 
 ---
-
-_“Build responsibly. Share generously. Lead with empathy.”_
