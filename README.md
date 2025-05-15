@@ -19,7 +19,7 @@ As an AI/ML technical specialist, Daekeun has led over 150+ AI/ML workloads, del
 
 ---
 
-### 📝 Tech Blog Contributions
+## 📝 Tech Blog Contributions
 
 - **Daekeun Kim** (2024). [Fine-tune/Evaluate/Quantize SLM/LLM using the torchtune on Azure ML. *Microsoft Tech Community.*](https://techcommunity.microsoft.com/blog/machinelearningblog/fine-tuneevaluatequantize-slmllm-using-the-torchtune-on-azure-ml/4285663)
 - **Daekeun Kim** (2024). [Generate Synthetic QnAs from Real-world Data on Azure. *Microsoft Tech Community.*](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/generate-synthetic-qnas-from-real-world-data-on-azure/ba-p/4202053)
