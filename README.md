@@ -2,25 +2,25 @@
 
 With 22 years of experience, including 19 years specializing in AI/ML, Daekeun has worked across startups, manufacturing, FSI, and cloud, gaining deep expertise in developing and deploying AI/ML products. Daekeun holds 6 first-author patents and have led AI/ML projects that contributed to the mass production of over 20 products.
 
-As an AI/ML technical specialist, Daekeun has led over 150+ AI/ML workloads, delivered 80+ seminars as the ML community tech leader, and mentored 18 ML experts. While his career was deeply rooted in computer vision, his expertise now spans all AI/ML domains, including GenAI, with a strong focus SLM fine-tuning and SLM/LLM serving. Daekeun has a double major in computer science and mathematics, and a master’s in computer science specialized in ML.
+As an AI/ML technical specialist, Daekeun has led over 160+ AI/ML workloads, delivered 90+ seminars as the ML community tech leader, and mentored 20+ ML experts. While his career was deeply rooted in computer vision, his expertise now spans all AI/ML domains, including GenAI, with a strong focus AIML Infra and fine-tuning/serving. Daekeun has a double major in computer science and mathematics, and a master’s in computer science specialized in ML.
 
 [![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge&logoColor=fff&link=https://www.linkedin.com/in/daekeun-kim)](https://www.linkedin.com/in/daekeun-kim) [![HuggingFace Badge](http://img.shields.io/badge/-HuggingFace-343839?style=for-the-badge&logo=huggingface&link=https://huggingface.co/daekeun-ml)](https://huggingface.co/daekeun-ml) [![GitBook Badge](https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=fff&link=https://housekdk.gitbook.io)](https://housekdk.gitbook.io)
-
-[![Daekeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=daekeun-ml&theme=solarized-light&hide_rank=true)](https://github.com/daekeun-ml/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daekeun-ml&layout=compact&custom_title=My&nbsp;Language&nbsp;)
 
 ---
 
 ## 🧠 Areas of Expertise
 
-- 🧑‍💻 **Modeling & Deployment**: SLM/LLM fine-tuning, model serving, evaluation-driven LLMOps, Traditional ML/Data Science, Computer Vision
-- ☁️ **Cloud ML Platforms**: Amazon SageMaker, Azure ML, Hugging Face
+- 🏗️ **AIML Infra**: Multi-node distributed training, model serving, evaluation-driven LLMOps
+- 🧑‍💻 **AIML**: Fine-tuning, Traditional ML/Data Science, Computer Vision
+- ☁️ **Cloud ML Platforms**: Amazon SageMaker AI, Azure ML, Hugging Face
 - 📚 **Research to Production**: 6 academic papers, 6 1st author patents, 20+ produductions, 2 tech book translations
-- 🎤 **Thought Leadership**: 80+ seminars, 40+ public talks, 18 ML mentees
+- 🎤 **Thought Leadership**: 90+ seminars, 60+ public talks, 20+ ML mentees
 
 ---
 
 ## 📝 Tech Blog Contributions
 
+- **Daekeun Kim** (2025). [Get started with Amazon Bedrock AgentCore Runtime quickly and easily.. *KR AWS Tech Blog.*](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-runtime-easy-learn-start)
 - **Daekeun Kim** (2024). [Fine-tune/Evaluate/Quantize SLM/LLM using the torchtune on Azure ML. *Microsoft Tech Community.*](https://techcommunity.microsoft.com/blog/machinelearningblog/fine-tuneevaluatequantize-slmllm-using-the-torchtune-on-azure-ml/4285663)
 - **Daekeun Kim** (2024). [Generate Synthetic QnAs from Real-world Data on Azure. *Microsoft Tech Community.*](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/generate-synthetic-qnas-from-real-world-data-on-azure/ba-p/4202053)
 - **Daekeun Kim** (2024). [Fine-tuning Florence-2 for VQA (Visual Question Answering) using the Azure ML Python SDK and MLflow. *Microsoft Tech Community*](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/fine-tuning-florence-2-for-vqa-visual-question-answering-using/ba-p/4181123)
