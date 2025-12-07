@@ -20,7 +20,7 @@ As an AI/ML technical specialist, Daekeun has led over 160+ AI/ML workloads, del
 
 ## 📝 Tech Blog Contributions
 
-- **Daekeun Kim** (2025). [Get started with Amazon Bedrock AgentCore Runtime quickly and easily.. *KR AWS Tech Blog.*](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-runtime-easy-learn-start)
+- **Daekeun Kim** (2025). [Get started with Amazon Bedrock AgentCore Runtime quickly and easily. *KR AWS Tech Blog.*](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-runtime-easy-learn-start)
 - **Daekeun Kim** (2024). [Fine-tune/Evaluate/Quantize SLM/LLM using the torchtune on Azure ML. *Microsoft Tech Community.*](https://techcommunity.microsoft.com/blog/machinelearningblog/fine-tuneevaluatequantize-slmllm-using-the-torchtune-on-azure-ml/4285663)
 - **Daekeun Kim** (2024). [Generate Synthetic QnAs from Real-world Data on Azure. *Microsoft Tech Community.*](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/generate-synthetic-qnas-from-real-world-data-on-azure/ba-p/4202053)
 - **Daekeun Kim** (2024). [Fine-tuning Florence-2 for VQA (Visual Question Answering) using the Azure ML Python SDK and MLflow. *Microsoft Tech Community*](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/fine-tuning-florence-2-for-vqa-visual-question-answering-using/ba-p/4181123)
