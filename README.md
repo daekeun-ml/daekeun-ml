@@ -18,6 +18,20 @@ As an AI/ML technical specialist, Daekeun has led 200+ AI/ML workloads, delivere
 
 ---
 
+## 📝 Papers
+
+(\*: Equal contribution)
+
+- Miso Choi<sup>\*</sup>, **Daekeun Kim**<sup>**\***</sup>, Eunji Kim, and Jungbeom Lee (2026). [V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models.](https://arxiv.org/pdf/2610.37019) _NeurIPS 2026_ (accepted).;
+- **Daekeun Kim** (2026). [Naver-News-KO: A Korean News Summarization Dataset for Open-Source Fine-Tuning of Summarization Models.](https://arxiv.org/pdf/2607.20442) arXiv:2607.20442.
+- **Daekeun Kim** (2026). [GLAN-QnA-KR: A Seedless Taxonomy-Driven Korean Instruction Corpus.](https://arxiv.org/pdf/2607.20443) arXiv:2607.20443.
+- **Daekeun Kim** and Youngjoon Choi (2023). [AWS 2nd gen. Inference Accelerator Analysis for Serving High-Performance and Cost-Effective Generative AI Models.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11487799) _KICS Summer conference,_ 2023.
+- Youngjoon Choi and **Daekeun Kim** (2023). [Comparison and Analysis for the Performance of Deep Learning-Based Time Series Prediction Algorithms According to Increasing Model Size.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002924711) _The Journal of KICS,_ 2023-01 Vol.48, pp.123-128. doi:10.7840/kics.2023.48.1.123.
+- **Daekeun Kim** and Youngjoon Choi (2022). [Optimizing Cost-Effective Deep Learning Inference Performance in the AWS Cloud Environment.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108541) _KICS Summer conference,_ 2022.
+- Soonam Lee and **Daekeun Kim** (2018). [Background Subtraction using the Factored 3-way Restricted Boltzmann Machines.](https://arxiv.org/pdf/1802.01522) arXiv:1802.01522.
+- Euiyeol Oh, **Daekeun Kim**, Jong Sang Baek, and Yoonsik Choe (2016). A Method on Choosing the Preferred Camera Resolution for Mura Compensation. _IMID,_ 2016.
+- Euiyeol Oh, **Daekeun Kim**, Jong Sang Baek, and Yoonsik Choe (2015). Automatic Micro Defect Detection in Non-repetitive Patterns for High-resolution TFT-LCDs. _IMID,_ 2015.
+
 ## 📝 Tech Blog Contributions
 
 - **Daekeun Kim** (2025). [Get started with Amazon Bedrock AgentCore Runtime quickly and easily. *KR AWS Tech Blog.*](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-runtime-easy-learn-start)
