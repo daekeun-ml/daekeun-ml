@@ -13,8 +13,8 @@ As an AI/ML technical specialist, Daekeun has led 200+ AI/ML workloads, delivere
 - 🏗️ **AIML Infra**: Multi-node distributed training, model serving, evaluation-driven LLMOps
 - 🧑‍💻 **AIML**: Fine-tuning, Traditional ML/Data Science, Computer Vision
 - ☁️ **Cloud ML Platforms**: Amazon SageMaker AI, Azure ML, Hugging Face
-- 📚 **Research to Production**: 6 academic papers, 6 1st author patents, 20+ produductions, 2 tech book translations
-- 🎤 **Thought Leadership**: 90+ seminars, 60+ public talks, 20+ ML mentees
+- 📚 **Research to Production**: 6 academic papers, 6 1st author patents, 30+ productions, 2 tech book translations
+- 🎤 **Thought Leadership**: 100+ seminars, 80+ public talks, 30+ ML mentees
 
 ---
 
