@@ -22,7 +22,7 @@ As an AI/ML technical specialist, Daekeun has led 200+ AI/ML workloads, delivere
 
 (\*: Equal contribution)
 
-- Miso Choi<sup>\*</sup>, **Daekeun Kim**<sup>**\***</sup>, Eunji Kim, and Jungbeom Lee (2026). [V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models.](https://arxiv.org/pdf/2610.37019) _NeurIPS 2026_ (accepted).;
+- Miso Choi<sup>\*</sup>, **Daekeun Kim**<sup>**\***</sup>, Eunji Kim, and Jungbeom Lee (2026). [V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models.](https://arxiv.org/pdf/2610.37019) _NeurIPS 2026_ (accepted).
 - **Daekeun Kim** (2026). [Naver-News-KO: A Korean News Summarization Dataset for Open-Source Fine-Tuning of Summarization Models.](https://arxiv.org/pdf/2607.20442) arXiv:2607.20442.
 - **Daekeun Kim** (2026). [GLAN-QnA-KR: A Seedless Taxonomy-Driven Korean Instruction Corpus.](https://arxiv.org/pdf/2607.20443) arXiv:2607.20443.
 - **Daekeun Kim** and Youngjoon Choi (2023). [AWS 2nd gen. Inference Accelerator Analysis for Serving High-Performance and Cost-Effective Generative AI Models.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11487799) _KICS Summer conference,_ 2023.
